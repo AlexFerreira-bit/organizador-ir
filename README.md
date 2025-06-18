@@ -24,13 +24,13 @@ Este projeto contém uma planilha Excel desenvolvida para facilitar a coleta e o
 ## 🖼️ Capturas de Tela
 
 ### Tela de Dados Pessoais
-![Dados Pessoais](images/tela1.png)
+![Dados Pessoais] (primeira imagem)
 
 ### Informes Financeiros
-![Informes](images/tela2.png)
+![Informes] (segunda imagem)
 
 ### Notas de Despesas e Rendimentos
-![Notas](images/tela3.png)
+![Notas] (terceira imagem)
 
 ---
 
